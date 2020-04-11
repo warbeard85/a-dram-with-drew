@@ -1,7 +1,7 @@
 title = "A Dram With Drew"
 baseURL = "https://dramwithdrew.com"
 languageCode = "en-us"
-theme = "gohugo-theme-ananke"
+theme = "ananke"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
@@ -20,7 +20,7 @@ enableRobotsTXT = true
   description = "Whisky Reviews, history and stories!"
   facebook = ""
   twitter = "https://twitter.com/dramwithdrew"
-  instagram = ""
+  instagram = "https://instagram.com/dramwithdrew"
   youtube = ""
   github = ""
   gitlab = ""
@@ -32,3 +32,4 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/theme.jpg"
   recent_posts_number = 2
+
