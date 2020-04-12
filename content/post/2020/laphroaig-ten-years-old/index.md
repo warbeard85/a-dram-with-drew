@@ -2,7 +2,7 @@
 date: 2020-04-08T10:58:08-04:00
 description: "Laphroaig Ten Year Old Whisky from Islay"
 featured_image: "img/site-images/laphroaig.jpg"
-tags: ["islay" "peat", "single malt", "scotch", "age statement", "laphroaig", "ten years old"]
+tags: ["islay", "peat", "single malt", "scotch", "age statement", "laphroaig", "ten years old"]
 title: "Laphroaig Ten Years Old"
 ---
 
