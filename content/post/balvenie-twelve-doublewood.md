@@ -14,7 +14,7 @@ I have decided to use this infrequent occasion to sip, review and enjoy another 
 And so it is just myself, the eerily quiet atmosphere of the sitting room and a bottle of Balvenie Double Wood 12 Year Old Single Malt Scotch Whisky.
 
  
-The Balvenie 12 Year Old Doublewood is a speyside malt launched in 1993 which uses several different casks in its maturation process.
+The Balvenie 12 Year Old Doublewood is a speyside malt launched in 1993 which uses several different casks in its maturation process and is bottled at 40% ABV.
 
 According to the Balvenie literature:
 
