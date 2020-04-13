@@ -11,6 +11,9 @@ googleAnalytics = "UA-163463317-1"
 enableRobotsTXT = true
 disqusShortname = "www-dramwithdrew-com"
 
+[permalinks]
+  post = "/:year/:month/:title/"
+
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
