@@ -1,17 +1,17 @@
 ---
-title: Contact
-featured_image: "/img/site-images/tumblers.jpg"
-omit_header_text: true
-description: We'd love to hear from you
+title: Get in touch with me!
+featured_image: "/img/site-images/pourawhisky.jpg"
+omit_header_text: false
+description: A dram shared is the best kind!
 type: page
 menu: main
 
 ---
 
 
-We would love to build Whisky network and hear from our friends from all over the world. 
+I  would love to build my Whisky network and hear from friends from all over the world. 
 
-Please use the form below to get in touch. We look forward to hearing from you.
+Please use the form below to get in touch. Look forward to hearing from you.
 
 Slàint Mhath! 
 
