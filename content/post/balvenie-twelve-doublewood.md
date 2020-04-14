@@ -25,7 +25,7 @@ According to the Balvenie literature:
  
 ### The Nose
  
-Balvenie has a very pleasant and sweet nose, you can predominantly smell the influence of the sherry cask.  I'm also picking up sweet cherry scents and hints of almond which combined with the sweetness remindns me of the marizpan on a christmas cake.
+Balvenie has a very pleasant and sweet nose, you can predominantly smell the influence of the sherry cask.  I'm also picking up sweet cherry scents and hints of almond which combined with the sweetness reminds me of the marizpan on a christmas cake.
  
  
 ### The Taste
@@ -35,7 +35,7 @@ This expression of Balvenie develops quite smoothly.  As with the nose there are
  
 ### The Verdict
  
-This is a sweet and pleasing dram, it isn't too challenging and is pretty easy to drink.  I didn't have to think too much about this one.  The flavours are all quite bold and pleasant and while I am quite biased towards  peated whiskies I still found this interesting and pleasant to drink.
+This is a sweet and pleasing dram, it isn't too challenging and is pretty easy to drink.  I didn't have to think too much about this one.  The flavours are all quite bold and pleasant and while I am quite biased towards peated whiskies I still found this interesting and pleasant to drink.
  
  
 ### Drew's Dram Mark:  86/100
