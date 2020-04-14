@@ -23,20 +23,20 @@ According to the Balvenie literature:
 > The whisky is then transferred to large oak vessels called “tuns” for 3-4 months to allow the whiskies from individual casks to “marry”.  
 
  
-**The Nose**
+### The Nose
  
 Balvenie has a very pleasant and sweet nose, you can predominantly smell the influence of the sherry cask.  I'm also picking up sweet cherry scents and hints of almond which combined with the sweetness remindns me of the marizpan on a christmas cake.
  
  
-**The Taste**
+### The Taste
  
 This expression of Balvenie develops quite smoothly.  As with the nose there are sherry and cherry notes but this time they come with a little hint of spiced orange and cinnamon.  This is a smooth and oily whisky which coats the mouth giving a gentle, sweet oak finish.
  
  
-**The Verdict**
+### The Verdict
  
 This is a sweet and pleasing dram, it isn't too challenging and is pretty easy to drink.  I didn't have to think too much about this one.  The flavours are all quite bold and pleasant and while I am quite biased towards  peated whiskies I still found this interesting and pleasant to drink.
  
  
-**Drew's Dram Mark:**  **86/100**
+### Drew's Dram Mark:  86/100
 
