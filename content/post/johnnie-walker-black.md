@@ -1,5 +1,5 @@
 ---
-date: 2020-04-16T10:58:08-04:00
+date: 2020-04-14T10:58:08-04:00
 description: "Balvenie Double Wood 12 Year Old Single Malt from Speyside"
 featured_image: "/img/2020/jwalker/jwalker.jpg"
 tags: ["blended malt", "sweet", "scotch", "age statement", "johnnie walker", "twelve years old"]
@@ -7,7 +7,9 @@ title: "Johnnie Walker Black Label Blended Scotch Whisky"
 draft: true
 ---
 
-Johnnie Walker black is a blended malt whisky with all whisky being matured in barrels for at least 12 years, even the grain whiskies.  The Black Label along with the Red Label is the best selling Scotch whisky of all time. Surely they must be doing something right?  
+Johnnie Walker black is a blended malt where all the different whiskies added are matured in barrels for at least 12 years, even the grain whiskies.  The Black Label along with the Red Label is one of the best selling Scotch whiskies of all time. 
+
+Surely they must be doing something right?  
 
 Looking at this whisky you can see that is quite heavily coloured with E150a (spirit caramel) and is as clear as clear as a Norweigan lake in winter due to chill filtration.  Perhaps it is judgmental of me to think of this as a scotch aimed at men in suits who want a dram in a tumbler after a hard day at the office and that is fine.  If you don't want to drink whisky with caramel colouring there are other options out there.
 
