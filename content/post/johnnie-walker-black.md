@@ -4,7 +4,7 @@ description: "Balvenie Double Wood 12 Year Old Single Malt from Speyside"
 featured_image: "/img/2020/jwalker/jwalker.jpg"
 tags: ["blended malt", "sweet", "scotch", "age statement", "johnnie walker", "twelve years old"]
 title: "Johnnie Walker Black Label Blended Scotch Whisky"
-draft: false
+draft: true
 ---
 
 Johnnie Walker black is a blended malt where all the different whiskies added are matured in barrels for at least 12 years, even the grain whiskies.  The Black Label along with the Red Label is one of the best selling Scotch whiskies of all time. 
