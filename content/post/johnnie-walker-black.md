@@ -1,6 +1,6 @@
 ---
 date: 2020-04-16T10:58:08-04:00
-description: "Balvenie Double Wood 12 Year Old Single Malt from Speyside"
+description: "A smooth sweet blend that doesn't break the bank"
 featured_image: "/img/2020/jwalker/jwalker.jpg"
 tags: ["blended malt", "sweet", "scotch", "age statement", "johnnie walker", "twelve years old"]
 title: "Johnnie Walker Black Label Blended Scotch Whisky"
