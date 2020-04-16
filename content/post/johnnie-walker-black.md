@@ -22,7 +22,7 @@ Lets get it poured and see what it's all about!
 
 ### The Nose
 
-Nosing this whisky at first I am surprised by the toffee notes I am getting. I know it says it in the marketing literature but there is definitely a very heavy, sweet toffee note to this whisky. Once past the toffe notes I can pick up Molasses and dark fruits, a slight sweet waffle scent mixed with sultana. On the nose this is pretty pleasing and smooth, I am looking forward to the taste.
+Nosing this whisky at first I am surprised by the toffee notes I am getting. I know it says it in the marketing literature but there is definitely a very heavy, sweet toffee note to this whisky. Once past the toffee notes I can pick up Molasses and dark fruits, a slight sweet waffle scent mixed with sultana. On the nose this is pretty pleasing and smooth, I am looking forward to the taste.
 
 ### The Taste
 
