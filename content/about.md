@@ -2,7 +2,7 @@
 title: About
 featured_image: "/img/site-images/barrels.jpg"
 omit_header_text: false
-description: Behind the dram
+description: A Little Bit of Information from Behind the Dram
 type: page
 menu: main
 ---

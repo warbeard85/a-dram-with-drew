@@ -1,17 +1,17 @@
 ---
-date: 2020-04-14T10:58:08-04:00
+date: 2020-04-16T10:58:08-04:00
 description: "Balvenie Double Wood 12 Year Old Single Malt from Speyside"
 featured_image: "/img/2020/jwalker/jwalker.jpg"
 tags: ["blended malt", "sweet", "scotch", "age statement", "johnnie walker", "twelve years old"]
 title: "Johnnie Walker Black Label Blended Scotch Whisky"
-draft: true
+draft: false
 ---
 
 Johnnie Walker black is a blended malt where all the different whiskies added are matured in barrels for at least 12 years, even the grain whiskies.  The Black Label along with the Red Label is one of the best selling Scotch whiskies of all time. 
 
 Surely they must be doing something right?  
 
-Looking at this whisky you can see that is quite heavily coloured with E150a (spirit caramel) and is as clear as clear as a Norweigan lake in winter due to chill filtration.  Perhaps it is judgmental of me to think of this as a scotch aimed at men in suits who want a dram in a tumbler after a hard day at the office and that is fine.  If you don't want to drink whisky with caramel colouring there are other options out there.
+Looking at this whisky you can see that is quite heavily coloured with E150a (spirit caramel) and is as clear as clear as a Norweigan lake in winter due to chill filtration.  Perhaps it is judgmental of me to think of this as a scotch aimed at men in suits who want a dram in a tumbler after a hard day at the office,and that is fine.  If you don't want to drink whisky with caramel colouring there are other options out there.
 
 From the Johnnie Walker Black Label marketing literature:
 
@@ -22,6 +22,7 @@ https://www.johnniewalker.com/en-gb/our-whisky/johnnie-walker-colours/black-labe
 Lets get it poured and see what its all about!
 
 ### The Nose
+
 Nosing this whisky at first I am suprised by the toffee notes I am getting.  I know it says it in the marketing literature but there is definitely a very heavy, sweet toffee note to this whisky.  Once past the toffe notes I can pick up Molasses and dark fruits, a slight sweet waffle scent mixed with sultana.  On the nose this is pretty pleasing and smooth, I am looking forward to the taste.
 
 ### The Taste
