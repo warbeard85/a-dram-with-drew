@@ -1,6 +1,6 @@
 ---
 title: About
-featured_image: "/img/site-images/pourawhisky.jpg"
+featured_image: "/img/site-images/barrels.jpg"
 omit_header_text: false
 description: Behind the dram
 type: page
